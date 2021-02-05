@@ -15,7 +15,7 @@ public class ExchangeData {
 
         System.out.println(exchangeData.sumIntegers(1, 2));
 
-        exchangeData.sayHelloToMe("Ivan", false);
+        System.out.println(exchangeData.sayHelloToMe("Ivan", false));
     }
 
 }
