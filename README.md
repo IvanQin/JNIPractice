@@ -17,3 +17,5 @@
     ```shell script
     cd src; java -Djava.library.path=./main/java/helloworld/ main.java.helloworld.Main; cd ..
     ```
+## Tips
+ 1. When running the first command (generate header file), you need to include all the dependent java source file as the argument to make it work.
